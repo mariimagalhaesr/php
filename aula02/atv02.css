@@ -1,0 +1,20 @@
+#div1 {background-color: rgb(117, 255, 223);
+    height: 200px;
+    width: 1500px;
+    color: rgb(0, 96, 101);
+    text-align: center;
+    font-size: 100px;
+    padding-top: 50px;
+}
+#div2 {background-color: rgb(123, 247, 205);
+    height: 200px;
+    width: 1500px;
+}
+#div3 {background-color: rgb(31, 204, 146);
+    height: 200px;
+    width: 1500px;
+}
+#div4 {background-color: rgb(12, 124, 86);
+    height: 200px;
+    width: 1500px;
+}
