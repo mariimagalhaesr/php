@@ -1,0 +1,18 @@
+body{
+    background-color: #F4EFEC;
+}
+
+h1{
+    background-color: #DDB7AC;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    background-color: #F0D9D1;
+}
+
+pre{
+    background-color: #c8c9bb;
+    font-size: 18px;
+}
